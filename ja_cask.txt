@@ -36,7 +36,7 @@ acorn	シンプルさに焦点を当てた画像エディター
 acousticbrainz-gui	オーディオ機能をAcousticBrainzデータベースに送信するためのグラフィカルクライアント
 acquia-dev	Drupalサイトをローカルに構築します インストール/テスト
 acronis-true-image	フルイメージのバックアップとクローン作成ソフトウェア
-acslogo	ロゴ通訳
+acslogo	Logo通訳
 activedock	カスタマイズ可能なドック アプリケーションランチャー/ドックの交換
 activitywatch	時間監視
 actual	あなたの財政を管理するためのプライバシーに焦点を当てたアプリ
@@ -63,7 +63,7 @@ aexol-remote-mouse	Aexolリモートマウス
 affinity-designer	プロのグラフィックデザインソフトウェア
 affinity-photo	プロの画像編集ソフトウェア
 affinity-publisher	プロのデスクトップ出版ソフトウェア
-after-dark-classic	ダーククラシックセット後
+after-dark-classic	Afterダーククラシックセット
 agenda	日付に焦点を当てたメモ取りアプリケーション
 aimersoft-video-converter-ultimate	ビデオ変換アプリ
 air-video-server-hd	Appleデバイスにビデオをストリーミングするためのツール
@@ -135,7 +135,7 @@ angband	ダンジョン探検ゲーム
 angry-ip-scanner	ネットワークスキャナー
 anka-build-cloud-controller-and-registry	仮想マシン管理 GUI/API/レジストリ
 anka-virtualization	仮想マシンを管理および作成するためのCLIツール
-ankama	アンカマのPCゲームをダウンロードするためのPortal
+ankama	AnkamaのPCゲームをダウンロードするためのPortal
 anki	記憶力トレーニングアプリケーション
 ankiapp-anki	暗記App
 anonym	ネットワークアクセスAnonymizer
@@ -192,7 +192,7 @@ around	エネルギーのために設計されたビデオ通話 アイデア/�
 arq	マルチクラウドバックアップアプリケーション
 arq-cloud-backup	Arqクラウドバックアップ
 arrsync	ユーティリティrsyncのグラフィカルフロントエンド
-artisan	コーヒー豆焙煎器用のVisual scope
+artisan	coffee roasters用のVisual scope
 artpip	厳選された写真のデスクトップの背景
 asana	チームプロジェクトとタスクを管理する
 ascension	ANSI/ASCII アートビューア
@@ -218,17 +218,17 @@ audio-hijack	任意のアプリケーションからのオーディオを録音�
 audiobook-builder	オーディオCDとファイルをオーディオブックに変える
 audiogridder-plugin	VST2/VST3/AU/AAXDSP サーバープラグイン
 audiogridder-server	VST2/VST3/AUDSP サーバー
-audioscrobbler	最小限の堅牢なiTunesのスクロブリング
+audioscrobbler	最小限の堅牢なiTunesのscrobbling
 audioslicer	オーディオファイル内のすべての無音を検索します
 audirvana	オーディオ再生ソフトウェア
 audius	音楽ストリーミングおよび共有プラットフォーム
-augur	Augur UIとugur Nodeをバンドルしローカルにデプロイするアプリ
+augur	Augur UIとugur Nodeをバンドルしローカルに展開するアプリ
 aural	Winampに触発されたオーディオプレーヤー
 aurora-hdr	フィルタ付きHDRフォトエディター バッチ処理など
 auryo	Soundcloud用の非公式デスクトップアプリ
 authy	二段階認証ソフトウェア
 autodesk-fusion360	Autodesk Fusion 360
-autodmg	システムインストーラーからデプロイ可能なシステムイメージを作成するためのアプリ
+autodmg	システムインストーラーから展開可能なシステムイメージを作成するためのアプリ
 autofirma	デジタル署名エディターおよびバリデーター
 automute	現在のWi-Fiネットワークに基づいてシステムをミュートまたはミュート解除します
 autopkgr	AutoPkgをインストールして構成します
@@ -303,12 +303,12 @@ beatunes	曲の 分析/検査/再生
 bee	Bee
 beekeeper-studio	クロスプラットフォームのSQLエディターとデータベース管理アプリ
 beeper	Matrixを搭載したユニバーサルチャットアプリ 15の異なるチャットネットワークを統合
-beersmith	Beer醸造ソフトウェア
+beersmith	Beer brewingソフトウェア
 berrycast	スクリーンレコーダー
 bespoke	ソフトウェアモジュラーシンセ
 bestres	メニューバーから画面の解像度をすばやく変更する
 betaflight-configurator	Betaflightファームウェアの構成ツール
-betelguese	ジェイルブレイクされたデバイス用のOdysseyra1nインストーラーGUI
+betelguese	脱獄されたデバイス用のOdysseyra1nインストーラーGUI
 better-window-manager	より良いウィンドウマネージャー
 betterdiscord-installer	BetterDiscordのインストーラー
 betterdummy	カスタム解像度を実現するためのAppleシリコンMac用ダミーディスプレイ
@@ -435,7 +435,7 @@ busycal	柔軟性と信頼性に焦点を当てた予定表ソフトウェア
 busycontacts	効率性に焦点を当てたコンタクトマネージャー
 butler	カスタマイズ可能な構成でタスクを配置します
 butt	ShoutcastおよびIcecastストリーミングクライアント
-butter	溶けたidobata.ioクライアント
+butter	Melted idobata.ioクライアント
 buttercup	Javascript Secrets Vault - Multi-Platformデスクトップアプリケーション
 bwana	Bwana
 bzflag	3Dマルチプレイヤー戦車バトルゲーム
@@ -487,7 +487,7 @@ cevelop	C++ IDE
 chai	システムがスリープ状態になるのを防ぐユーティリティ
 chalk	電卓ソフトウェア
 charles	Webデバッグプロキシアプリケーション
-charlessoft-timetracker	TimeTracker
+charlessoft-timetracker	時間追跡
 chatmate-for-facebook	Facebookメッセンジャークライアント
 chatmate-for-whatsapp	WhatsAppのChatMate
 chatology	チャットマネージャーとメッセージ検索ソフトウェア
@@ -539,11 +539,11 @@ clashx	クラッシュに基づくGUIを備えたルールベースのカスタ�
 classicftp	FTPファイル転送ソフトウェア
 classroom-assistant	学生リポジトリを一括で複製するためのツール
 classroom-mode-for-minecraft	Minecraft Education Editionの教室管理アプリ
-clay	人々をよりよく覚えるためのプライベートローロデックス
+clay	人々をよりよく覚えるためのプライベートrolodex 
 clean-me	ログ用のシステムクリーナー キャッシュなど
 cleanapp	SyniumソフトウェアCleanApp
 cleanmymac	ディスクから不要なファイルやフォルダを削除するツール
-cleanmymac-zh	ディスク中国語版から不要なファイルやフォルダを削除するツール
+cleanmymac-zh	中国語版ディスクから不要なファイルやフォルダを削除するツール
 cleanshot	画面キャプチャツール
 cleartext	テキストエディター
 clementine	音楽プレーヤーとライブラリーのまとめ
@@ -562,7 +562,7 @@ clock	大きな時計
 clock-bar	Macbook|時計 タッチバーの右側
 clock-signal	8ビットおよび16ビットプラットフォームの遅延を嫌うエミュレーター
 clocker	メニューバーのタイムゾーン監視
-clockify	代理店やフリーランサーのためのタイムトラッキングツール
+clockify	代理店やフリーランサーのための時間追跡ツール
 clocksaver	Braunの時計に触発されたスクリーンセーバー
 clone-hero	Guitar Heroクローン
 clonk	Clonk Rage
@@ -694,7 +694,7 @@ cursorcerer	Cursorcerer
 cursorsense	カーソルの加速と感度を調整します
 customshortcuts	メニュー項目のキーボードショートカットをカスタマイズする
 cutesdr	復調およびスペクトル表示プログラム
-cutter	Rizinを搭載したリバースエンジニアリングプラットフォーム
+cutter	Rizinを搭載した逆エンジニアリングプラットフォーム
 cyberduck	サーバーとクラウドストレージブラウザー
 cyberghost-vpn	VPNクライアント
 cycling74-max	独自の双方向ソフトウェアを作成するための柔軟なスペース
@@ -760,7 +760,7 @@ delicious-library	快適なライブラリ
 deltachat	電子メールサーバーネットワーク経由でチャット
 deltawalker	ファイルとフォルダを比較および同期するためのツール
 deluge	BitTorrentクライアント
-dendroscope	根付いた系統樹とネットワークのための双方向なビューア
+dendroscope	rootの系統treeとネットワークのための双方向なビューア
 denemo	楽譜作成プログラム
 depthmapx	空間ネットワーク分析ソフトウェア
 deskreen	Webブラウザーを備えたデバイスをセカンダリ画面に変えます
@@ -858,7 +858,7 @@ dropshare	ファイル共有ソリューション
 dropzone	生産性アプリ
 drovio	リモートペアプログラミングおよびチーム協調ツール
 dteoh-devdocs	APIドキュメントビューア
-duckietv	セミオートマジックtorrent統合でテレビ番組を追跡するためのツール
+duckietv	semi-automagic torrent統合でテレビ番組を追跡するためのツール
 duefocus	時間追跡および生産性ソフトウェア
 duet	iPadをセカンドディスプレイとして使用するためのツール
 dungeon-crawl-stone-soup-console	ダンジョン探検のゲーム 戦闘と魔法
@@ -991,7 +991,7 @@ expo-xde	Expo開発環境(XDE)
 expressions	正規表現マネージャーアプリ
 expressscribe	Express Scribe転写ソフトウェア
 expressvpn	安全なインターネットアクセスとプライベートブラウジングのためのVPNクライアント
-extraterm	ターミナルエミュレータのスイスアーミーチェーンソー
+extraterm	ターミナルエミュレータの万能チェーンソー
 f-bar	メニューバーからLaravel Forgeサーバーを管理する
 fabfilter-micro	フィルタープラグイン
 fabfilter-one	シンセサイザープラグイン
@@ -1243,7 +1243,7 @@ gitkraken	生産性に焦点を当てたGitクライアント
 gitnote	gitnote
 gitpigeon	GitPigeon
 gitscout	Gitscout
-gitter	ギッター
+gitter	Gitter
 gitup	視覚的な相互作用に焦点を当てたGitインターフェース
 gitx	GitX
 glance	ネイティブでサポートされていないファイルのQuicklookプレビューを提供するユーティリティ
@@ -1277,13 +1277,13 @@ goofy	Faceboo kMes​​senger用のデスクトップクライアント
 google-ads-editor	Google広告エディター
 google-analytics-opt-out	Webサイトの訪問者のデータがGoogle Analytics JavaScriptによって使用されないようにする
 google-assistant	デスクトップ用のクロスプラットフォームの非公式Googleアシスタントクライアント
-google-chat	チャット
+google-chat	Chat
 google-chat-electron	Googleチャット用の独立型アプリ
 google-chrome	Webブラウザー
 google-cloud-sdk	Google Cloudでホストされているリソースとアプリケーションを管理するためのツールのセット
 google-drive	Googleドライブストレージサービスのクライアント
 google-drive-file-stream	Googleドライブストレージサービスのクライアント
-google-earth-pro	仮想地球
+google-earth-pro	Virtual globe
 google-featured-photos	スクリーンセーバー写真プロバイダー
 google-japanese-ime	Google日本語入力方式エディター
 google-trends	Googleトレンドのスクリーンセーバー
@@ -1463,7 +1463,7 @@ imagemin	imagemin
 imageoptim	画像をより小さなサイズに最適化するためのツール
 imagex	画像コレクションを視覚的に探索して検索する
 imazing	iPhone管理アプリケーション
-imdone	プレーンテキストのマークダウンファイルまたはコードで動作するかんばんボード
+imdone	プレーンテキストのマークダウンファイルまたはコードで動作するKanbanボード
 imgotv	MangoTVビデオアプリ
 immersed	VROffice用デスクトップエージェント
 imo	Imoメッセンジャー
@@ -1772,7 +1772,7 @@ licecap	アニメーションスクリーンキャプチャアプリケーショ
 license-control-center	eLicenserコントロールセンター
 licensed	Licensed
 liclipse	軽量エディター Eclipseのテーマ設定と使いやすさの向上
-lidarr	ソナーのような見た目と匂いが音楽のために作られました
+lidarr	Sonarrのような見た目と匂いが音楽のために作られました
 lifesize	lifesize
 lightform	Lightformデバイス用のARプロジェクションおよびオーディオ反応性ソフトウェア
 lightgallery	ライトギャラリー
@@ -2334,7 +2334,7 @@ odrive	クラウドストレージを統合するためのツール 同期/共�
 offset-explorer	Apache Kafkaクラスターを管理および使用するためのGUI
 ogdesign-eagle	すべての参照画像を1か所に整理
 okta-advanced-server-access	IDおよびアクセス管理
-old-school-runescape	Old SchoolRuneScapeのゲームクライアント
+old-school-runescape	Old School RuneScapeのゲームクライアント
 olive	Non-linearビデオエディター
 omegat	OmegaT
 omnidazzle	画面とマウスポインタの領域を強調表示するプラグインのセット
@@ -2481,7 +2481,7 @@ parsehub	ParseHub
 parsify	単位と通貨の変換を備えた拡張可能な計算機
 particle-dev	粒子デバイスをプログラミングするためのIDE
 pashua	Pashua
-password-gorilla	パスワードゴリラ
+password-gorilla	Password Gorilla
 pastebot	生産性を向上させるワークフローアプリケーション
 patchwork	Patchwork
 path-finder	ファイルマネージャー
@@ -2952,7 +2952,7 @@ samsung-dex	一部のSamsungデバイスをデスクトップのようなエク�
 santa	バイナリ認証システム
 saoimageds9	SAOImage DS9
 sapmachine-jdk	SAPからのOpenJDKディストリビューション
-satellite-eyes	サテライトアイズ
+satellite-eyes	Satellite Eyes
 sauce-connect	Sauce Labs自動テストプラットフォームに安全に接続するためのプロキシサーバー
 sauerbraten	マルチプレイヤー&シングルプレイヤー一人称シューティングゲーム
 save-hollywood	カスタムビデオファイルのスクリーンセーバー
