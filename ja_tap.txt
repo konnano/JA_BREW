@@ -310,7 +310,7 @@ font-chivo	Chivo
 font-chokokutai	文字が面白い外観の日本語表示フォント
 font-chomsky	New York Timesのマストヘッド フルフォントとして再考
 font-chonburi	Chonburi
-font-church-slavonic	教会スラヴ語フォント
+font-church-slavonic	教会スラヴフォント
 font-cica	Cica
 font-cinzel	Cinzel
 font-cinzel-decorative	Cinzel Decorative
@@ -1881,8 +1881,8 @@ audient-evo	制御およびループバックミキサー
 behringer-x32-edit	LAN/Wi-Fi経由でBehringerデジタルミキサーを編集する
 blackvue-viewer	BlackVue DashcamSDカードとCloudViewer
 blocks-code	LittleFoot言語を使用してROLIBLOCKSのアプリケーションを開発する
-blue-sherpa	ブルーUSBマイク用コンパニオンアプリ
-bose-soundtouch	コンピューターからBoseSoundTouchシステムを制御する
+blue-sherpa	Blue USBマイク用コンパニオンアプリ
+bose-soundtouch	コンピューターからBose SoundTouchシステムを制御する
 bose-updater	Bose製品のソフトウェアアップデート
 bragi-updater	Dashの新しいスキルを確認し言語を切り替えます
 brother-p-touch-update-software	ブラザーP-touchラベルプリンター用ソフトウェア
@@ -2006,6 +2006,7 @@ nordic-nrf-connect	Bluetooth Low EnergyおよびcIoT用の開発ソフトウェ�
 nvidia-cuda-toolkit	高性能GPU加速アプリケーションを作成するためのツール
 nvidia-web-driver	NVIDIA Webドライバー
 obinskit	Anne ProおよびAnne Pro2用のソフトウェア
+obs-ios-camera-source	OBS Studio用のiOSカメラプラグイン
 obsbot-me-tool	OBSBOT Meの構成およびファームウェア更新ユーティリティ
 obsbot-tinycam	OBSBOT TinyおよびTiny4K Webカメラの構成およびファームウェア更新ユーティリティ
 openintelwireless-heliport	Intel Wi-Fiアダプターカーネル拡張用のクライアント
