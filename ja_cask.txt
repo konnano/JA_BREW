@@ -20,6 +20,7 @@
 a-better-finder-attributes	ファイルと写真の微調整ツール
 a-better-finder-rename	ファイルの名前変更 音楽/写真
 a-slower-speed-of-light	一人称ゲーム
+abbyy-finereader-pdf	スキャン/OCR ドキュメントを検索可能なPDFやその他の形式に変換します
 ableton-live-intro	サウンドと音楽のエディター
 ableton-live-lite	サウンドと音楽のエディター
 ableton-live-standard	サウンドと音楽のエディター
@@ -1050,7 +1051,6 @@ finalshell	SSHツール サーバー管理およびリモートデスクトッ�
 find-any-file	ファイルファインダー
 find-empty-folders	空のフォルダを検索します
 findergo	Finderからターミナルをすばやく開く
-finereader	ドキュメントから情報を解析するためのツール
 fing	ネットワークスキャナー
 fing-cli	ネットワークスキャナー
 finicky	起動するブラウザーをカスタマイズするためのユーティリティ
@@ -1972,6 +1972,7 @@ mechvibes	入力時にメカニカルキーボードのサウンドを再生し�
 media-center	メディアを管理および再生する
 media-converter	aviを変換する wmv/mkv/rm/movなどを他の形式に
 mediaelch	Kodiのメディアマネージャー
+mediahuman-audio-converter	Audio変換器
 mediahuman-youtube-downloader	YouTubeビデオダウンローダー
 mediainfo	ビデオおよびオーディオファイルの技術データとタグデータを表示する
 mediathekview	ドイツ語のオンラインマルチメディアライブラリを管理します オーストリアとスイスの公共放送
@@ -2466,6 +2467,7 @@ paperpile	Microsoft Wordの引用プラグイン
 papers	研究者のための参照管理ソフトウェア
 paperspace	Paperspaceクラウドコンピューティングプラットフォーム用のデスクトップアプリ
 papyrus	モデルベースのエンジニアリングツール
+paragon-camptune	Paragon CampTune
 paragon-extfs	Paragon ExtFS
 paragon-ntfs	Mac用Paragon NTFS
 paragon-vmdk-mounter	ダブルクリックで仮想コンテナをマウントします
@@ -2920,6 +2922,7 @@ rodeo	Python用データサイエンスIDE
 roku-remote-tool	Rokuリモートツール
 rolisteam	仮想卓上ソフトウェア
 roon	音楽プレーヤー
+roonbridge	音楽プレーヤーネットワーク拡張
 rosaimagewriter	ROSA ImageWriter
 rotato	試作品生成器とアニメーター3D
 rotki	ポートフォリオ追跡および会計ツール
@@ -2940,6 +2943,7 @@ runelite	Old School RuneScapeのクライアント
 runescape	RuneScape
 runjs	コードが入力されると自動評価されるJavaScriptプレイグラウンド
 runway	機械学習を活用したクリエイティブツールキット
+rwts-pdfwriter	ドキュメントをPDFファイルに直接印刷するためのプリンタードライバー
 ryver	Ryver
 sabaki	囲碁とSGFエディター
 sabnzbd	バイナリニュースリーダー
