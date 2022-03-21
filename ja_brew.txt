@@ -395,7 +395,7 @@ bgpq4	CiscoのBGPフィルタリングの自動化 Juniper/BIRD/OpenBGPDルー�
 bgpstream	ライブおよび履歴BGPデータ分析用
 bgrep	grepと同様ですが、バイナリ文字列用です
 bib-tool	BibTeXデータベースを操作します
-bibclean	BibTeX参考文献ファイル、プリティプリンターと構文チェッカー
+bibclean	BibTeX参考文献ファイル pretty printer/構文チェッカー
 biber	BibLaTeXのバックエンド計算機
 bibtex2html	BibTeXからHTMLへの変換器
 bibtexconv	BibTeXファイル変換器
@@ -1085,7 +1085,7 @@ dex	器用なテキストエディタ
 dex2jar	Android.dexおよびJava.classファイルを操作するためのツール
 dfc	ファイルシステムの 空き/使用量 のグラフを色で表示します
 dfix	Dソースコードの自動アップグレードツール
-dfmt	Dソースコードのフォーマッタ
+dfmt	Dソースコードの初期化装置
 dfu-programmer	Atmelチップのデバイスファームウェアupdate base USB programmer
 dfu-util	USB programmer
 dgen	セガ Genesis/Mega Drive エミュレータ
@@ -1323,7 +1323,7 @@ elixir	Erlang VM上に構築された機能的なメタプログラミング対�
 elixir-build	RubyビルドのElixirバージョン
 elixir-ls	Elixirの言語サーバーとデバッガー
 elm	ブラウザベースのGUIを構築するための関数型プログラミング言語
-elm-format	Gofmtに触発されたElmソースコードフォーマッタ
+elm-format	Gofmtに触発されたElmソースコード初期化装置
 elvis	Erlangスタイルレビューアー
 elvish	親しく表現力豊かなシェル
 emacs	GNU Emacsテキストエディタ
@@ -1577,6 +1577,7 @@ fortio	HTTPおよびgRPC負荷テストおよび視覚化ツールとサーバ�
 fortran-language-server	Fortran用言語サーバー
 fortune	悪名高い電子フォーチュンクッキー発生器
 fossil	分散ソフトウェア構成管理
+fourmolu	Haskellソースコードの初期化装置
 fourstore	効率的で安定したRDFデータベース
 fox	グラフィカルユーザーインターフェイスを簡単に開発するためのツールキット
 fpart	ファイルツリーを並べ替え、packs them into bags
@@ -1903,7 +1904,7 @@ gnu-cobol	COBOL85およびCOBOL2002標準の多くを実装します
 gnu-complexity	Cソースの複雑さを測定します
 gnu-getopt	コマンドラインオプション解析ユーティリティ
 gnu-go	囲碁のゲームをします
-gnu-indent	Cコードプリティファイア
+gnu-indent	Cコード整形
 gnu-prolog	制約解決を備えたPrologコンパイラ
 gnu-sed	有名なストリームエディタのGNU実装
 gnu-shogi	将棋
@@ -2086,7 +2087,6 @@ gst-plugins-ugly	メディア処理コンポーネントのグラフを作成す
 gst-python	gobject-introspection-baseのpygst bindingsのPythonオーバーライド
 gst-rtsp-server	GStreamerに基づくRTSPサーバーライブラリ
 gstreamer	マルチメディアアプリケーションの開発フレームワーク
-gstreamermm	GStreamer C++ bindings
 gti	コマンドのタイプミスコレクターを表示するASCIIアート
 gtk+	GUIツールキット
 gtk+3	グラフィカルユーザーインターフェイスを作成するためのツールキット
@@ -2516,7 +2516,7 @@ jsoncpp	JSONと対話するためのライブラリ
 jsonlint	CLIを使用したJSONパーサーと確認
 jsonnet	JSONデータを定義するためのドメイン固有の構成言語
 jsonnet-bundler	Jsonnetのパッケージマネージャー
-jsonpp	コマンドラインJSONプリティプリンター
+jsonpp	コマンドラインJSON pretty-printer
 jsonrpc-glib	JSON-RPCベースのピアと通信するためのGNOMEライブラリ
 jsonschema	PythonのJSONスキーマの実装
 jsonschema2pojo	JSONスキーマ(またはJSONの例え)からJavaタイプを生成します
@@ -3270,6 +3270,7 @@ lsof	開いているファイルを一覧表示するユーティリティ
 lsusb	Linuxのlsusbコマンドと同じように、USBデバイスを一覧表示します
 lsyncd	ローカルディレクトリをリモートターゲットと同期する
 ltc-tools	リニアタイムコード(LTC)を処理するためのツール
+ltex-ls	ラテックスをサポートするLanguageToolのLSP Markdown/その他
 ltl2ba	LTL式をBuchiオートマトンに変換する
 lttng-ust	Linux Trace Toolkit次世代ユーザースペーストレーサー
 lua	強力で軽量なプログラミング言語
@@ -3756,6 +3757,7 @@ ngrep	ネットワークgrep
 ngs	Ops用に特別に設計された強力なプログラミング言語とシェル
 ngspice	Spice回路模擬装置
 ngt	高次元データのインデックスを作成するための近傍グラフとツリー
+nickel	lessの為のより良い構成
 nickle	卓上計算機言語
 nicotine-plus	Soulseekファイル共有ネットワークのグラフィカルクライアント
 nicovideo-dl	www.nicovideo.jpから動画をダウンロードするコマンドラインプログラム
@@ -3993,7 +3995,7 @@ orc-tools	ORC javaコマンドラインツールとユーティリティ
 orgalorg	並列SSHコマンド実行ツールとファイル同期ツール
 organize-tool	ファイル管理自動化ツール
 orientdb	グラフデータベース
-ormolu	Haskellソースコードのフォーマッタ
+ormolu	Haskellソースコードの初期化装置
 orocos-kdl	Orocos Kinematics and Dynamics C++ライブラリ
 ortp	リアルタイム転送手続きライブラリ(RTP、RFC3550)
 ory-hydra	OpenID認定OAuth2.0サーバーおよびOpenID接続プロバイダー
@@ -4300,7 +4302,7 @@ pow	MacOS上のローカルアプリ用のZero-config Rackサーバー
 powerline-go	シェルの美しく便利な低遅延プロンプト
 powerman	制御(リモートおよび並列)スイッチ配電ユニット
 ppl	パルマ多面体ライブラリ：分析/検証 のための数値抽象化
-pprint	最新のC++のプリティプリンター
+pprint	最新のC++のPretty printer
 ppss	コマンドを並行して実行するシェルスクリプト
 ppsspp	PlayStation Portableエミュレーター
 pqiv	最低限のUIを備えた強力な画像Viewer
@@ -4937,7 +4939,7 @@ slurm	さらに別のネットワーク負荷モニター
 smake	自動作成機能を備えたポータブル作成プログラム
 smali	AndroidのJavaVM実装用のアセンブラー/逆アセンブラー
 smartmontools	SMARTハードドライブの監視
-smartypants	タイポグラフィプリティファイア
+smartypants	印刷デザインの整形
 smimesign	Gitで使用する S/MIME署名ユーティリティ
 smlpkg	Standard MLライブラリおよびプログラムのパッケージマネージャー
 smpeg	SDL MPEGプレーヤーライブラリ
@@ -5137,6 +5139,7 @@ stubby	getdnsに基づくDNSプライバシー対応スタブリゾルバーサ�
 stunnel	SSLトンネリングプログラム
 stuntman	STUN手続きの実装
 style-check	禁止されているフレーズを検索するためにラテックス形式のテキストを解析します
+stylish-haskell	Haskellコードの整形
 stylua	意見のあるLuaコード整形ツール
 sub2srt	字幕を.subからsubviewer.srt形式に変換します
 subfinder	サブドメイン検出ツール
@@ -5333,7 +5336,7 @@ thrift	scalableな多言語サービス開発のためのフレームワーク
 thrift@0.9	scalableな多言語サービス開発のためのフレームワーク
 thrulay	ネットワークの性能を測定する
 tidy-html5	最新の標準をサポートするHTMLツールの祖父
-tidy-viewer	CLIcsvプリティプリンター
+tidy-viewer	CLI csv pretty printer
 tidyp	HTMLを検証および変更する
 tiff2png	TIFFからPNGへの変換器
 tig	Gitリポジトリのテキストインターフェース
