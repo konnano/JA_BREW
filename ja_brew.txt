@@ -5388,6 +5388,7 @@ swift	高性能システムプログラミング言語
 swift-format	Swiftソースコードのフォーマット技術
 swift-protobuf	Swiftでprotobufを使用するためのプラグインとランタイムライブラリ
 swift-sh	簡単なzero-conf依存関係のインポートによるスクリプト
+swiftdraw	SVGを PDF/PNG/JPEG/SFシンボルに変換
 swiftformat	Swiftコードを再フォーマットするためのフォーマットツール
 swiftgen	アセット用のSwiftコードジェネレーター ストーリーボード Localizable.strings...
 swiftlint	Swiftのスタイルと規則を適用するためのツール
