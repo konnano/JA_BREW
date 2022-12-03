@@ -1050,6 +1050,7 @@ cyrus-sasl	Simple Authentication and Security Layer
 cython	Python言語のC機能拡張を作成するためのコンパイラ
 czg	標準化されたコミットメッセージを生成するインタラクティブなCommitizen CLI
 czmq	ZeroMQの高レベルC bindings
+d2	テキストを図に変換する最新のダイアグラム/スクリプト言語
 daemon	他のプロセスをデーモンに変える
 daemonize	UNIXデーモンとしてコマンドを実行する
 daemonlogger	ネットワークパケットロガーとソフトタップデーモン
@@ -2792,6 +2793,7 @@ kubesess	複数の kubernetesクラスターを同時に管理する
 kubespy	Kubernetesリソースをリアルタイムで監視するためのツール
 kubeval	Kubernetes構成ファイルを検証し複数のKubernetesバージョンをサポートします
 kubevela	Kubernetesとオープンアプリケーションモデルに基づくアプリケーションプラットフォーム
+kubevious	Kubernetesの構成ミスと違反を検出して防止します
 kubie	kubectxとkubensのはるかに強力な代替手段
 kumactl	Kumaコントロールplaneコマンドラインユーティリティ
 kumo	Javaのワードクラウド
@@ -5585,6 +5587,7 @@ teller	Goに組み込まれた開発者向けの秘密管理ツール
 telnet	TELNET手続きのユーザーインターフェイス
 telnetd	TELNETサーバー
 template-glib	GLibのGNOMEテンプレートライブラリ
+temporal	Temporal ServerおよびUIを実行および操作するためのコマンドラインインターフェイス
 temporal_tables	テンポラルテーブルPostgreSQL機能拡張
 tendermint	任意のプログラミング言語のアプリケーション用のBFT状態マシンレプリケーション
 tengo	Goの高速スクリプト言語
