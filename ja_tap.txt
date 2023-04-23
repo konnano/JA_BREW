@@ -363,6 +363,7 @@ font-comfortaa	Comfortaa
 font-comforter	多くの用途にアピール
 font-comforter-brush	comforter Brushyの仲間 弾む 直立したブラシスタイルのスクリプト
 font-comic-mono	読みやすい等幅フォント
+font-comic-neue	古典的 comic sansのオリジナルの再解釈
 font-comic-sans-ms	Comic Sans
 font-coming-soon	Coming Soon
 font-comme	可変、細いものから黒いものまでのウェイト軸
@@ -1128,7 +1129,7 @@ font-molle	Molle
 font-mona-sans	GitHubの可変フォントMona Sans
 font-monda	Monda
 font-monocraft	Minecraftで使用される書体に基づくプログラミング フォント
-font-monocraft-nerd-font	Nerd グリフを追加するパッチが適用されたMinecraft書体に影響された等幅フォント
+font-monocraft-nerd-font	Nerdグリフを追加するパッチが適用されたMinecraft書体に影響された等幅フォント
 font-monofett	Monofett
 font-monofur-for-powerline	monofur for Powerline
 font-monofur-nerd-font	Monofur オタクフォント(Monofur)
