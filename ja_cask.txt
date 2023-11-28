@@ -2234,7 +2234,7 @@ microsoft-openjdk	MicrosoftからのOpenJDKディストリビューション
 microsoft-outlook	メールクライアント
 microsoft-powerpoint	プレゼンテーションソフトウェア
 microsoft-remote-desktop	リモートデスクトップクライアント
-microsoft-teams	会う/チャット/電話 1か所で会議
+microsoft-teams	会う/チャット/電話 1ケ所で会議
 microsoft-word	ワードプロセッサ
 middle	トラックパッドとマジックマウスのミドルクリックを追加
 middleclick	トラックパッド機能を拡張するユーティリティ
